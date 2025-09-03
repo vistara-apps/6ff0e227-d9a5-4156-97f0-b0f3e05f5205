@@ -1,0 +1,14 @@
+{
+  "name": "KnowYourRights Buddy",
+  "description": "KnowYourRights Buddy is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://6ff0e227-d9a5-4156-97f0-b0f3e05f5205.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "KnowYourRights Buddy",
+      "description": "KnowYourRights Buddy is a Base Mini App built with Zara.",
+      "url": "https://6ff0e227-d9a5-4156-97f0-b0f3e05f5205.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

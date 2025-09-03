@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "KnowYourRights Buddy",
+    "subtitle": "Built with Zara",
+    "description": "KnowYourRights Buddy is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://6ff0e227d9a5415697f0b0f3e05f5205-179r-cyjtd2bhd-vistara.vercel.app",
+    "splashImageUrl": "https://6ff0e227d9a5415697f0b0f3e05f5205-179r-cyjtd2bhd-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://6ff0e227d9a5415697f0b0f3e05f5205-179r-cyjtd2bhd-vistara.vercel.app/image.png",
+    "tagline": "KnowYourRights Buddy",
+    "screenshotUrls": [
+      "https://6ff0e227d9a5415697f0b0f3e05f5205-179r-cyjtd2bhd-vistara.vercel.app/screenshot.png",
+      "https://6ff0e227d9a5415697f0b0f3e05f5205-179r-cyjtd2bhd-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://6ff0e227d9a5415697f0b0f3e05f5205-179r-cyjtd2bhd-vistara.vercel.app/api/webhook"
+  }
+}
